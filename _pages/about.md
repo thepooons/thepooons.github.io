@@ -1,9 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
 ---
-## Me
 
+## Me
 <center><img src="https://thepooons.github.io/assets/images/poons.png"></center>
 
 - Hi there, this is Puneet Singh.  
